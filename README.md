@@ -1,12 +1,12 @@
 <h1> Amigo Secreto - ¿Quién te saldrá? 😯 </h1>
 
-<h2> Breve Descripción 🎲 </h2>
+<h2>- Breve Descripción 🎲 </h2>
 
 Este proyecto es un juego de Amigo Secreto implementado en JavaScript, HTML y CSS.
 Nos permite agregar nombres y sortear un amigo secreto de forma aleatoria.
 Además, conserva la lista completa visible para mantener el misterio durante todo el juego.
 
-<h3>*Utilizamos en la Estructura*</h3>
+<h3>- Utilizamos en la Estructura</h3>
 
 index.html: Estructura básica del juego con formularios e interfaz.
 
@@ -17,7 +17,7 @@ styles.css: Estilos para el diseño y presentación.
 README.md: Documentación del proyecto.
 
 
-<h4>*🔧 Posibles problemas y soluciones* <h4>
+<h4>- 🔧 Posibles problemas y sus Soluciones <h4>
   
 Problema //	Solución
   
